@@ -1,0 +1,1 @@
+cmd.exe /C cscript.exe /B /Nologo "c:\officescrub\OffScrub_O16msi.vbs"
